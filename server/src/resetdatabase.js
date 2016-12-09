@@ -89,8 +89,8 @@ var initialData = {
   "feeds": {
     "4": {
       "_id": new ObjectID("000000000000000000000004"),
-      // Listing of FeedItems in the feed.
-      "contents": [new ObjectID("000000000000000000000002"), new ObjectID("000000000000000000000001")]
+     // Listing of FeedItems in the feed.
+     "contents": [new ObjectID("000000000000000000000002"), new ObjectID("000000000000000000000001")]
     },
     "3": {
       "_id": new ObjectID("000000000000000000000003"),
